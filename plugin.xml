@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://cordova.apache.org/ns/plugins/1.0"
-        id="cordova-plugin-radar"
+        id="outsystems-cordova-plugin-radar"
         version="3.5.0">
     <name>Radar</name>
     <js-module src="www/Radar.js" name="Radar">
-        <clobbers target="cordova.plugins.radar"/>
+        <clobbers target="outsystems.cordova.plugins.radar"/>
     </js-module>
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
