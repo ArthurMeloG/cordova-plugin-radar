@@ -1,5 +1,5 @@
 {
-  "name": "outsystems-cordova-plugin-radar",
+  "name": "cordova-plugin-radar",
   "description": "Cordova plugin for Radar, the leading geofencing and location tracking platform",
   "homepage": "https://radar.com",
   "license": "Apache-2.0",
@@ -21,7 +21,7 @@
     "url": "https://github.com/ArthurMeloG/cordova-plugin-radar"
   },
   "cordova": {
-    "id": "outsystems-cordova-plugin-radar",
+    "id": "cordova-plugin-radar",
     "platforms": [
       "android",
       "ios"
